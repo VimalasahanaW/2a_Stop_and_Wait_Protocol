@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/535ebbf4-7cc0-4e98-8afc-938ace3557c8)# 2a_Stop_and_Wait_Protocol
+
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
@@ -39,7 +39,7 @@ while True:
 ```
 ## OUTPUT
 
-![Screenshot 2024-11-07 182053](https://github.com/user-attachments/assets/d3fb83fd-ce7e-40e6-8be6-d12850d2b614)
+![Screenshot 2024-11-07 182053](https://github.com/user-attachments/assets/ce8642e0-8635-4f46-8297-946093e5329c)
 
 
 
